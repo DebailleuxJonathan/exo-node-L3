@@ -1,0 +1,17 @@
+{
+  "name": "fonctionnement_nodejs",
+  "version": "1.0.0",
+  "description": "exo2",
+  "main": "exo2.js",
+  "scripts": {
+    "start": "node exo2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "^1.3.1",
+    "json-stats-tool": "^1.1.0",
+    "simple-statistics": "^7.7.0"
+  }
+}
