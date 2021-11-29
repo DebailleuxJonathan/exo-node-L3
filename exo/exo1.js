@@ -4,7 +4,7 @@ const tab = []
 function moneyMachine() {
     let result = '';
 
-    for (let i = 0; i < 7; i++) {
+    for (let i = 0; i < 3; i++) {
         let random = crypto.randomInt(0, 7);
         switch (random) {
             case 0:
